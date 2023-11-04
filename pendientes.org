@@ -1,0 +1,6 @@
+* DONE Agregar systray:
+https://dwm.suckless.org/patches/systray/
+* TODO Agregar scripts para status bar:
+https://www.youtube.com/watch?v=NuS_JLkQbKc
+* TODO Agregar atajos de i3:
+  https://www.realvnc.com/en/developer/docs/latest/api/c/Keyboard.h.html
