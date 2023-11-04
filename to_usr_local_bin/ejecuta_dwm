@@ -1,0 +1,8 @@
+#!/bin/bash
+# setxkbmap es mac
+setxkbmap latam
+export TERMCMD='urxvt --title scratchpad'
+xset +fp /usr/share/fonts
+xset fp rehash
+dwmstatus &
+exec dwm
